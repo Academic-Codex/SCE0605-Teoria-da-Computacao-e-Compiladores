@@ -1,0 +1,12 @@
+REPO_TAGLINE: Formal languages • automata • compilers
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: library
+SITE_URL: https://academic-codex.github.io/SCE0605-Teoria-Computacao-e-Compiladores
+
+BG_1: "#2E1065"
+BG_2: "#4C1D95"
+TEXT_MAIN: "#F5F3FF"
+TEXT_MUTED: "#DDD6FE"
+ACCENT: "#A78BFA"
+CARD_RADIUS: "18"
